@@ -1,0 +1,6 @@
+{
+	"name": "prometheus",
+	"version": "1.0.0",
+	"description": "Prometheus project",
+	"private": true
+}
